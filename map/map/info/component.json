@@ -1,0 +1,34 @@
+{
+  "hint": [
+    {
+      "name": "map",
+      "action": {
+        "random": false,
+        "layer": "map",
+        "toolbar": {
+          "name": "箭头",
+          "select": "无"
+        },
+        "selector": [
+          [
+            "map",
+            "yanshi2.png"
+          ],
+          [
+            "map_prop",
+            "qiang3.png"
+          ],
+          [
+            "",
+            "hk1"
+          ],
+          [
+            "",
+            "hk2"
+          ]
+        ]
+      }
+    }
+  ],
+  "component": {}
+}
